@@ -1,20 +1,25 @@
-Project: Simple Calculator
+Project Name: Matrix Operations in C
 
-Language: C
-
-Description:
-This program performs Addition, Subtraction,
-Multiplication, and Division using switch case.
+Language: C Programming
 
 Features:
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
+
+* Matrix Addition
+* Matrix Subtraction
+* Matrix Multiplication
+* Matrix Transpose
+* User Input for Matrix Elements
 
 Sample Input:
-Choice: 1
-Numbers: 2 3
+Matrix A:
+1 2
+3 4
+
+Matrix B:
+5 6
+7 8
 
 Sample Output:
-Result = 5.00
+Addition Result:
+6 8
+10 12
